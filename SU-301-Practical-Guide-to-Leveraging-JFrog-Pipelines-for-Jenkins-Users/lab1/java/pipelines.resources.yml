@@ -3,7 +3,7 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: my_github
-      path: greg.romano@qflow.com/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
+      path: greg.romano@qflow.com/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
       branches:
         include: {{ gitBranch }}
       files:
